@@ -1,2 +1,2 @@
 Primeira alteração;
-Segunda alteração;
+Segunda alteração conflito 1;

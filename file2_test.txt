@@ -1,2 +1,2 @@
-Primeira linha;
+Conflito 1;
 Segunda alteração;
